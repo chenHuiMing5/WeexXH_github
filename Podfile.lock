@@ -1,0 +1,23 @@
+PODS:
+  - DZNEmptyDataSet (1.8.1)
+  - Masonry (1.0.2)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - WebViewJavascriptBridge (5.2.0)
+
+DEPENDENCIES:
+  - DZNEmptyDataSet
+  - Masonry (~> 1.0.1)
+  - SDWebImage (~> 3.7.3)
+  - WebViewJavascriptBridge (~> 5.0)
+
+SPEC CHECKSUMS:
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  WebViewJavascriptBridge: a00b2d61252aec5207e3263d46fd0fd3cfaf7895
+
+PODFILE CHECKSUM: 1a07dca530f474c0cfae29be71f3bff480c8886a
+
+COCOAPODS: 1.2.0
